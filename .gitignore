@@ -1,0 +1,19 @@
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+
+# Dataset directories
+train/
+test/
+valid/
+
+*.pth
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+__pycache__/
